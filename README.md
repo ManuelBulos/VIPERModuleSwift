@@ -16,11 +16,11 @@ sudo swift install.swift
 
 ```
 
-If all it's ok you now could find your template in Xcode.
+If everything is ok you can now find your template in Xcode.
 
 ### Manually
 
-Go to Application folder, browse to the Xcode application icon. Right-click it and choose 'Show Package Contents'. Then browse to:
+Go to Application folder, right-click the Xcode application icon and choose 'Show Package Contents'. Then go to:
 
 `Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/Project Templates/iOS/Application` and add "VIPER Module.xctemplate" file. Now you can find your template in Xcode.
 
@@ -30,7 +30,7 @@ Go to Application folder, browse to the Xcode application icon. Right-click it a
 
 ## Generated code
 
-This template generates all files that you need to create a new VIPER module. All generated code is Swift 5.
+This template generates all files that you need to create a new VIPER module. All generated code is written in Swift 5.
 
 This is a module example:
 
