@@ -25,8 +25,11 @@ Go to Application folder, right-click the Xcode application icon and choose 'Sho
 `Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/Project Templates/iOS/Application` and add "VIPER Module.xctemplate" file. Now you can find your template in Xcode.
 
 ## Easy to use
+CMD + N to create a new file
 
-![](/assets/wizard.png)
+![](/assets/wizard1.png)
+
+![](/assets/wizard2.png)
 
 ## Generated code
 
